@@ -1,6 +1,6 @@
 # Monkey 🐵
 
-![](https://github.com/alexruf/monkey/workflows/continuous%integration/badge.svg)
+![](https://github.com/alexruf/monkey/workflows/build/badge.svg)
 
 An interpreter for the Monkey programming language written in [Go](https://golang.org/).
 
