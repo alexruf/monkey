@@ -43,6 +43,12 @@ clean:
 	@echo "${GRAY}>> 🧹\t${MAGENTA}Cleaning...${RESET_COLOR}"
 	@if [ -f ${APP} ] ; then rm -v ${APP} ; fi
 
+.PHONY: mod-download
+## mod-download: download modules to local cache
+mod-download:
+	@echo "${GRAY}>> ⬇️\t${MAGENTA}Downloading modules...${RESET_COLOR}"
+	@go mod download
+
 .PHONY: help
 ## help: prints this help message
 help:
