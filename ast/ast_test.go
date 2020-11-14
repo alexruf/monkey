@@ -1,7 +1,7 @@
 package ast
 
 import (
-	"gitlab.com/alexruf/monkey/token"
+	"github.com/alexruf/monkey/token"
 	"testing"
 )
 

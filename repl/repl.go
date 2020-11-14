@@ -3,8 +3,8 @@ package repl
 import (
 	"bufio"
 	"fmt"
-	"gitlab.com/alexruf/monkey/lexer"
-	"gitlab.com/alexruf/monkey/token"
+	"github.com/alexruf/monkey/lexer"
+	"github.com/alexruf/monkey/token"
 	"io"
 )
 

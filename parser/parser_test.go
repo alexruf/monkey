@@ -1,8 +1,8 @@
 package parser
 
 import (
-	"gitlab.com/alexruf/monkey/ast"
-	"gitlab.com/alexruf/monkey/lexer"
+	"github.com/alexruf/monkey/ast"
+	"github.com/alexruf/monkey/lexer"
 	"testing"
 )
 

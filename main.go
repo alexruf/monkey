@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gitlab.com/alexruf/monkey/repl"
+	"github.com/alexruf/monkey/repl"
 	"os"
 	"os/user"
 )

@@ -2,7 +2,7 @@ package ast
 
 import (
 	"bytes"
-	"gitlab.com/alexruf/monkey/token"
+	"github.com/alexruf/monkey/token"
 )
 
 type Node interface {
