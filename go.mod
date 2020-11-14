@@ -1,3 +1,3 @@
-module gitlab.com/alexruf/monkey
+module github.com/alexruf/monkey
 
 go 1.15
