@@ -93,3 +93,4 @@ vendor/
 
 # Monkey
 monkey
+dist/
