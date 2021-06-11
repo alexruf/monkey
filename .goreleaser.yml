@@ -40,6 +40,8 @@ brews:
     dependencies:
       - name: go
         type: optional
+    install: |-
+      bin.install "monkey"
 release:
   prerelease: auto
 checksum:
