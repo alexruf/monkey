@@ -2,6 +2,7 @@ package parser
 
 import (
 	"fmt"
+
 	"github.com/alexruf/monkey/ast"
 	"github.com/alexruf/monkey/lexer"
 	"github.com/alexruf/monkey/token"
